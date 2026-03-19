@@ -1,0 +1,37 @@
+How to calculate the mean, std, min, max, count, and percentiles for every column?
+how to create a table with two decimals for the above values(mean, std, min, max, count, and percentiles)?
+How to find if any data in the CSV fie is missing or not?
+How to find the number of duplicate entries?
+How to find the column names and convert in into lower case?
+How to find the duplicate cells and remove it?
+How to change all inputs in to single format(GENDER & LUNG_CANCER are in object type, covert all into integer)?
+How to create a correlation heatmap for all columns?
+Find the patients count based on the age?
+How to check the number of patients equal or below the given age(Ex: age 49)?
+How to display he age based count in chart?
+How to find the correlation and pvalue for the age and disease?
+How to find tthe number of patients having chest pain,  coughing,  swallowing difficulty based on the age?
+Find out number of patients based on gender?
+How to create a bar chart for the lung cancer patients based on gender?
+How to find the correlation and pvalue for the age and disease?
+How to creae a hierarchical dataset with based on multiple parameters(min, max, mean)?
+How to find the correlation and pvalue for the gender and disease?
+How to find the dataset for female patients only?
+How to find the dataset for male patients only?
+find out the number of patients smoking based on gender?
+How many of the patients having lung cancer from above list?
+How to create a chart for lung cancer patients based on gender?
+How to find the correlation of smoking and lung cancer patients?
+How to create a chart for the number of patients smoking based on gender?
+How to create a chart for the number of patients having chronic disease based on smoking?
+How to create a chart for the number of patients having yellow_fingers based on smoking?
+How to create a chart for the number of patients having coughing based on smoking?
+How to create a chart for the number of patients having shortness of breath based on smoking?
+How to find the correlation of chest pain and lung cancer patients?
+How to find the correlation of alcohol consuming and lung cancer patients?
+How to find the correlation of peer_pressure and lung cancer patients?
+How to find the correlation of anxiety and lung cancer patients?
+How to create chart for different paramters based on gender?
+How to find the lung cancer patients, who are having swallowing difficulty?
+Find the accuracy of different models based on training and test set?
+How to create a confusion matrix for test and training set?
